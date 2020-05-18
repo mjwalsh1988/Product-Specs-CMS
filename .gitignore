@@ -1,0 +1,5 @@
+application/logs
+uploads
+application/config/database.php
+.htaccess
+error_log
